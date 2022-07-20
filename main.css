@@ -1,0 +1,12 @@
+.img1{
+    margin-left: 50px;
+}
+.nr_tel{
+    margin-left: 20px
+}
+header{
+       
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
